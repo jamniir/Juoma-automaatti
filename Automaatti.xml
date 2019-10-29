@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="JuomaAutomaatti" id="JuomaAutomaatti0">
+  <void class="JuomaAutomaatti" method="getField">
+   <string>kahvi</string>
+   <void method="set">
+    <object idref="JuomaAutomaatti0"/>
+    <int>176</int>
+   </void>
+  </void>
+ </object>
+</java>
